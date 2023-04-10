@@ -32,7 +32,7 @@ Hello 👋 I am Sunplex. I love learning new [software] languages, and working o
 ### Lighthouse Suite
 
 ```
-An education suite aimed to provide a highly productive and centric experienced and user friendly design.
+An education suite aimed to provide a highly productive, centric experience and user friendly design.
 
 Progress: ███████░░░░░░░░░░░░░░░░░░░░ 25%
 ```
